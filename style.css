@@ -1,0 +1,84 @@
+body {
+  margin: 0 auto;
+  width: 100%;
+  height: 1000vh;
+}
+
+.title {
+  justify-content: center;
+  align-items: center;
+  font-size: 90px;
+  color: #79e5cb;
+
+  position: relative;
+  top: 70px;
+  left: -300px;
+  margin: 0 auto;
+
+  width: 200px;
+  height: 100px;
+}
+
+.profile {
+  justify-content: center;
+  align-items: center;
+  height: 470px;
+}
+
+.mainBox {
+  border-style: solid;
+  border-color: #236281;
+  height: 370px;
+  width: 770px;
+  padding: 0;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 110px;
+}
+
+.JiwonMemoji {
+  width: 270px;
+  height: 270px;
+  position: absolute;
+  left: 65px;
+  top: 30px;
+}
+
+.textInfo {
+  position: absolute;
+  top: 10px;
+  left: 410px;
+  font-size: 25px;
+  font-family: "Gowun Batang", serif;
+}
+
+.wannaSay {
+  justify-content: center;
+  width: 300px;
+  height: 70px;
+  font-size: 40px;
+}
+
+.saying {
+  font-style: italic;
+}
+
+.menuBox {
+  text-align: center;
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  height: 80px;
+  font-size: 50px;
+  top: 140px;
+  align-items: center;
+}
+
+.menuBox span {
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  padding: 10px 70px;
+}
